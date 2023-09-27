@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musty-cruise
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on likeful minds
+- 💞️ I’m looking to collaborate with likeful minds
 - 📫 How to reach me 08153595495
 
 <!---
